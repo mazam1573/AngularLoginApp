@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Muhammad",
+      "lastName": "Azam",
+      "email": "pms@htmlpro.net",
+      "mobile": "03224353328",
+      "salary": "45000"
+    },
+    {
+      "id": 5,
+      "firstName": "Muhammad",
+      "lastName": "Hasnain",
+      "email": "pms@htmlpro.net",
+      "mobile": "03224353328",
+      "salary": "60000"
+    }
+  ]
+}
